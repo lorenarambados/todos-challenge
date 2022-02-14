@@ -1,0 +1,11 @@
+{
+    "name": "todos",
+    "version": "0.0.1",
+    "description": "Todos-Challenge",
+    "author": "Lorena Rambados",
+    "scripts": {
+      "cy:run": "cypress run",
+      "cy:open": "cypress open",
+      "cy:spec": "cypress run --spec"
+    }
+  }
